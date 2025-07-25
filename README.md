@@ -61,8 +61,6 @@ This project is ideal for:
 
 ## 🚀 Potential Enhancements
 
-- Add online payment integration (Razorpay, PayPal, Stripe).  
-- Enable user reviews/ratings on products.  
 - Integrate newsletter subscriptions or live chat support.  
 - Enable admin analytics dashboard via Google Analytics or Jetpack.
 
